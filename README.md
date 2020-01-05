@@ -1,3 +1,18 @@
+## Features
+
+Responder [x]
+Lista de auxilio [x]
+Lista de matricula [x]
+Lista de planos [x]
+Edicao de matriculas
+Edicao de planos [x]
+Edicao de alunos [x]
+Formulario de matriculas
+Formulario de planos [x]
+Formulario de alunos [X]
+Lista de alunos [x]
+Sign [X]
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
